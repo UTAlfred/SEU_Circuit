@@ -1,0 +1,9 @@
+{
+"cmp_top_iop_sparc0_exu.dff": [ "cmp_top.iop.sparc0.exu" ],
+"cmp_top_iop_sparc0_ffu.dff": [ "cmp_top.iop.sparc0.ffu" ],
+"cmp_top_iop_sparc0_ifu.dff": [ "cmp_top.iop.sparc0.ifu" ],
+"cmp_top_iop_sparc0_lsu.dff": [ "cmp_top.iop.sparc0.lsu" ],
+"cmp_top_iop_sparc0_mul.dff": [ "cmp_top.iop.sparc0.mul" ],
+"cmp_top_iop_sparc0_tlu.dff": [ "cmp_top.iop.sparc0.tlu" ],
+"cmp_top_iop_fpu.dff": [ "cmp_top.iop.fpu" ],
+}
